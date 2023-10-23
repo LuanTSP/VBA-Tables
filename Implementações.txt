@@ -1,18 +1,32 @@
 # O que implementar no projeto módulo
-## Geral
- - [x] Criar objeto Table
-## Linhas
-- [x] Retornar linha específica da Tabela
-- [x] Retornar Última linha da Tabela
-- [x] Retornar endereço linha específica da Tabela
-- [ ] Adicionar linha da tabela
-- [ ] Adicionar a última linha da tabela
-- [ ] Editar uma linha específica da tabela
-## Colunas
-- [x] Retornar Coluna da Tabela por índice
-- [x] Retornar Coluna da Tabela por Nome
-- [ ] Inserir uma coluna na tabela por Índice
-- [ ] Remover uma coluna da tabela por Nome
+	## Geral
+ 	- [x] Criar objeto Table
+	- [x] Conta o número de linhas da tabela
+	- [x] Conta o número d colunas da tabela
+	
+	## Header
+	- [x] Retorna Header de Tabela com header como Range
+	- [x] Retorna Header de Tabela com header como Collection
+	## Linhas
+	- [x] Retornar linha específica da Tabela como Range
+	- [x] Retornar Última linha da Tabela como Range
+	- [x] Retornar endereço linha específica da Tabela como String
+	- [x] Retornar linha específica da Tabela como Collection
+	- [x] Retornar Última linha da Tabela como Collection
+	
+	- [ ] Adicionar linha da tabela
+	- [ ] Adicionar a última linha da tabela
+	- [ ] Editar uma linha específica da tabela
+	## Colunas
+	- [x] Retornar Coluna da Tabela por índice como Range
+	- [x] Retornar Coluna da Tabela por Nome como Range
+	- [x] Retorna endereço especifico de coluna por indice como String
+	- [x] Retornar Coluna da Tabela por índice como Collection
+	- [x] Retornar Coluna da Tabela por Nome como Collection
+	
+	- [ ] Inserir uma coluna na tabela por Índice
+	- [ ] Remover uma coluna da tabela por Nome
+	- [ ] Remover uma coluna da tabela por Indice
 
 
 
