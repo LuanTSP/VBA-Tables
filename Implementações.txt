@@ -1,0 +1,19 @@
+# O que implementar no projeto módulo
+## Geral
+ - [x] Criar objeto Table
+## Linhas
+- [x] Retornar linha específica da Tabela
+- [x] Retornar Última linha da Tabela
+- [x] Retornar endereço linha específica da Tabela
+- [ ] Adicionar linha da tabela
+- [ ] Adicionar a última linha da tabela
+- [ ] Editar uma linha específica da tabela
+## Colunas
+- [x] Retornar Coluna da Tabela por índice
+- [x] Retornar Coluna da Tabela por Nome
+- [ ] Inserir uma coluna na tabela por Índice
+- [ ] Remover uma coluna da tabela por Nome
+
+
+
+
