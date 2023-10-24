@@ -14,9 +14,9 @@
 	- [x] Retornar linha específica da Tabela como Collection
 	- [x] Retornar Última linha da Tabela como Collection
 	
-	- [ ] Adicionar linha da tabela
-	- [ ] Adicionar a última linha da tabela
-	- [ ] Editar uma linha específica da tabela
+	- [x] Adicionar linha da tabela por indice
+	- [x] Adicionar a última linha da tabela
+	- [x] Editar uma linha específica da tabela
 	## Colunas
 	- [x] Retornar Coluna da Tabela por índice como Range
 	- [x] Retornar Coluna da Tabela por Nome como Range
