@@ -25,8 +25,8 @@
 	- [x] Retornar Coluna da Tabela por Nome como Collection
 	
 	- [x] Inserir uma coluna na tabela por Índice
-	- [ ] Remover uma coluna da tabela por Nome
-	- [ ] Remover uma coluna da tabela por Indice
+	- [x] Remover uma coluna da tabela por Nome
+	- [x] Remover uma coluna da tabela por Indice
 
 
 
