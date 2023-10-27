@@ -3,6 +3,7 @@
  	- [x] Criar objeto Table
 	- [x] Conta o número de linhas da tabela
 	- [x] Conta o número d colunas da tabela
+	- [x] CreateIDColumn cria uma coluna de ID para a tabela
 	
 	## Header
 	- [x] Retorna Header de Tabela com header como Range
@@ -11,8 +12,8 @@
 	- [x] Retornar linha específica da Tabela como Range
 	- [x] Retornar Última linha da Tabela como Range
 	- [x] Retornar endereço linha específica da Tabela como String
-	- [x] Retornar linha específica da Tabela como Collection
-	- [x] Retornar Última linha da Tabela como Collection
+	- [x] Retornar linha específica da Tabela como Collection com key de acordo com o header
+	- [x] Retornar Última linha da Tabela como Collection com key de acordo com o header
 	
 	- [x] Adicionar linha da tabela por indice
 	- [x] Adicionar a última linha da tabela
